@@ -1,7 +1,7 @@
 # Bama Car Dataset - September 2024
 
 ## Description (English)
-This dataset contains car listings scraped from the Bama website on September 19, 2024. It includes the following fields:
+This dataset contains car listings scraped from the Bama website on September 23, 2024. It includes the following fields:
 
 - **Type:** The type of the car.
 - **Title:** The title of the listing.
@@ -28,12 +28,12 @@ This dataset contains car listings scraped from the Bama website on September 19
 This dataset is useful for various machine learning tasks, such as car price prediction, market analysis, and more.
 
 ## How to Use
-Download the CSV file and load it into your data processing tool of choice (Python, R, Excel, etc.) for further analysis.
+Download the CSV or JSON file and load it into your data processing tool of choice (Python, R, Excel, etc.) for further analysis.
 
 ---
 
 ## Description (Farsi)
-این دیتاست شامل لیست خودروهایی است که از وبسایت باما در تاریخ ۱۹ سپتامبر ۲۰۲۴ استخراج شده است. این دیتاست شامل فیلدهای زیر است:
+این دیتاست شامل لیست خودروهایی است که از وبسایت باما در تاریخ ٢٣ سپتامبر ۲۰۲۴ استخراج شده است. این دیتاست شامل فیلدهای زیر است:
 
 - **نوع:** نوع خودرو.
 - **عنوان:** عنوان آگهی.
@@ -60,4 +60,4 @@ Download the CSV file and load it into your data processing tool of choice (Pyth
 این دیتاست برای وظایف مختلف یادگیری ماشین مانند پیش‌بینی قیمت خودرو، تحلیل بازار و موارد دیگر مفید است.
 
 ## نحوه استفاده
-فایل CSV را دانلود کرده و در ابزار پردازش داده مورد نظر خود (پایتون، R، اکسل و غیره) بارگذاری کرده و آن را برای تحلیل بیشتر استفاده کنید.
+فایل CSV یا JSON را دانلود کرده و در ابزار پردازش داده مورد نظر خود (پایتون، R، اکسل و غیره) بارگذاری کرده و آن را برای تحلیل بیشتر استفاده کنید.
